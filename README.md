@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lightbluearrow
 - 👀 I’m interested in website design
 - 🌱 I’m currently learning R
-- 💞️ I’m not looking to collaborate on anything. I like working on my own
 - 📫 You can reach me at lightbluearrow@outlook.com
