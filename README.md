@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lightbluearrow
+- 👋 Hi, I’m @lightbluearrow (he/him/his)
 - 👀 I’m interested in website design
 - 🌱 I’m currently learning R
 - 📫 You can reach me at lightbluearrow@outlook.com
